@@ -32,10 +32,10 @@ Clone this repository and create a virtual environment:
    source venv/bin/activate
    ```
 
-### 2. Data Folder
+### 3. Data Folder
 Create a data/ in the root directory of the repo
 
-### 3. Install Dependencies
+### 4. Install Dependencies
 Install the required Python packages using the minimalist requirements file:
    ```bash
    pip install -r requirements.txt
