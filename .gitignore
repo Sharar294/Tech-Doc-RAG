@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Project Specifics
+# We don't upload the database because it's generated from the source PDF
+chroma_langchain_db/
+
+# Local data (if you don't want to share your specific PDFs)
+data/*.pdf
+
+# OS generated files
+.DS_Store
+Thumbs.db
