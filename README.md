@@ -33,7 +33,7 @@ Clone this repository and create a virtual environment:
    ```
 
 ### 3. Data Folder
-Create a data/ in the root directory of the repo
+Create a data folder in the root directory of the repo
 
 ### 4. Install Dependencies
 Install the required Python packages using the minimalist requirements file:
